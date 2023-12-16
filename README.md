@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101 Pre-work: Introducing Xcode*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jacques Joseph**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **30mins** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
