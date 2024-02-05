@@ -23,6 +23,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 Instagram:
 - [X] I like how the message board is designed
 - [X] I also like how users can change background colors
+
+      
 Bible App:
 -I like the Timeline feature
 -I like the video and how users can add text to images.
