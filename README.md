@@ -26,8 +26,8 @@ Instagram:
 
       
 Bible App:
--I like the Timeline feature
--I like the video and how users can add text to images.
+- [X] I like the Timeline feature
+- [X] I like the video and how users can add text to images.
 
 ## Notes
 
