@@ -20,10 +20,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-Instagram
--I like how the message board is designed
--I also like how users can change background colors
-Bible App
+Instagram:
+- [X] I like how the message board is designed
+- [X] I also like how users can change background colors
+Bible App:
 -I like the Timeline feature
 -I like the video and how users can add text to images.
 
